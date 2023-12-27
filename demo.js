@@ -1,0 +1,1 @@
+console.log("Trying to use a alternative name instead of origin");
